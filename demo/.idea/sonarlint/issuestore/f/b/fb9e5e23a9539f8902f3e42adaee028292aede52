@@ -1,0 +1,17 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çãµ²úÿÿÿÿ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²“°¥
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¿‘’øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æô›Êıÿÿÿÿ
+T
+java:S1481"2Remove this unused "NombreUsuario" local variable.(Çãµ²úÿÿÿÿ8Ş°ªš—0
+I
+java:S1481	",Remove this unused "Celular" local variable.(²“°¥8ù×¬š—0
+K
+java:S1481
+")Remove this unused "Edad" local variable.(ó¿‘’øÿÿÿÿ8Éóªš—0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡íÚ¾ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œº¤Î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Ğò¿øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¡Úùÿÿÿÿ
